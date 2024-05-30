@@ -25,4 +25,4 @@ const cities = [
 
 const averageDemocratPopulation = 
 
-console.log(averageDemocratPopulation); // Expected output: 1930677.4
+console.log(averageDemocratPopulation); // Expected output: 2377312.111111111
