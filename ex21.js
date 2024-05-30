@@ -21,7 +21,7 @@ const cities = [
   { cityName: 'Washington', state: 'D.C.', population: 712816, party: 'Democrat' }
 ];
 
-// 21. Get the names of all cities with a population greater than 1,000,000 and sort by cityName in descending order.
+// 21. Get the names of all cities with a population greater than 1,600,000 and sort by cityName in descending order.
 
 const largeCities = 
 
