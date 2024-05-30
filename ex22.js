@@ -25,4 +25,4 @@ const cities = [
 
 const totalRepublicanPopulation = 
 
-console.log(totalRepublicanPopulation); // Expected output: 12885039
+console.log(totalRepublicanPopulation); // Expected output: 13048151
